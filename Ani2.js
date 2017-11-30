@@ -5,7 +5,7 @@
 // endregion
 
 'use strict';
-window.Ani = function (obj) {
+window.Ani2 = function (obj) {
     //state = init | running | pause | finish
     function extend(t,o) {
         for(var n in o){
